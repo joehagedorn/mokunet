@@ -1,2 +1,2 @@
 # mokunet
-Enhanced food process labeling for regional use
+Enhanced food process specification for regional value added producers
