@@ -1,2 +1,2 @@
 # mokunet
-Enhanced food process specification for regional value added producers
+Enhanced food process and supply chain specification for regional value added producers
