@@ -1,2 +1,2 @@
 # mokunet
-Enhanced food process and supply chain specification for regional value added producers
+An Iot framework for farm to facility end point deploymwnt
