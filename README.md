@@ -1,4 +1,3 @@
-# AG+ Projects
+# AG+DEVOPS
 ## Active Research
-Applied Data Science in regenerative agriculture 
-
+Data Transformations for Short Food Supply Chains
